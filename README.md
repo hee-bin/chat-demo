@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![coredot-chat-demo](logo.svg)
 
 Redis를 이용한 채팅 구현의 이해를 돕기 위해서 만든 데모.
@@ -11,3 +12,6 @@ Redis를 이용한 채팅 구현의 이해를 돕기 위해서 만든 데모.
 ```bash
 uvicorn run:app --reload --port 8000
 ```
+=======
+# chat-demo
+>>>>>>> b529f81a66e640b327f38ee90fd62e913fccdfe4
